@@ -1,5 +1,3 @@
-import { useState } from "react";
-
 interface IProps {
   isInterdeterminate?: boolean;
   isChecked?: boolean;
